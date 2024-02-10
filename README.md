@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Eason Lin</h1>
-<h2 align="center">Test1<h2>
+<h2 align="center"><h2>
 
-## Test2
 
 <h3 align="center">A passionate frontend developer from Hong Kong</h3>
 
